@@ -30,8 +30,9 @@ main:
 	li $v0, 12
 	syscall
 	
-	jal CountOccur
+	move $a1, $v0
 	
+	jal CountOccur
 	
 	#exit the program
 	li $v0, 10
