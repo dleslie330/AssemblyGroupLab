@@ -1,5 +1,5 @@
 # Dakota Leslie
-# Ardley
+# Ardley Pacheco
 # Group Lab
 
 #	int countOccur(string s, char l){
